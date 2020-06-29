@@ -1,7 +1,7 @@
 # Cepstral-k-means
 Code accompanying the paper "Cepstral k-means"
 ## Summary
-The code in this repository recreates the numerical examples in the manuscript "Cepstral k-means", a preprint of which can be found on [arXiv](placeholder), by Oliver Lauwers and Bart De Moor, which develops a novel time series clustering algorithm, providing a rigorous framework for clustering time series according to their underlying dynamics. It combines the well-known k-means algorithm with the weighted cepstral distance.
+The Python code in this repository recreates the numerical examples in the manuscript "Cepstral k-means", a preprint of which can be found on [arXiv](placeholder), by Oliver Lauwers and Bart De Moor, which develops a novel time series clustering algorithm, providing a rigorous framework for clustering time series according to their underlying dynamics. It combines the well-known k-means algorithm with the weighted cepstral distance.
 This manuscript has been sent in to be considered for publication to the Journal of Machine Learning Research.
 
 Two main applications are available:
