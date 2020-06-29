@@ -5,7 +5,7 @@ The code in this repository recreates the numerical examples in the manuscript "
 This manuscript has been sent in to be considered for publication to the Journal of Machine Learning Research.
 
 Two main applications are available:
- - An example using Cylinder-Bell-Funnel data, in a .py-file.
+ - An example using Cylinder-Bell-Funnel data, in a .py-file. (CylinderBellFunnelExample.py)
  - A Jupyter notebook on unsupervised wind turbine generator anomaly detection.
 
 Bear in mind that this code is not meant as a fully working software package, but serves merely as an illustration accompanying the manuscript mentioned earlier.
