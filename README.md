@@ -6,7 +6,7 @@ This manuscript has been sent in to be considered for publication to the Journal
 
 Two main applications are available:
  - An example using Cylinder-Bell-Funnel data, in a .py-file. (CylinderBellFunnelExample.py)
- - A Jupyter notebook on unsupervised wind turbine generator anomaly detection.
+ - A Jupyter notebook on unsupervised wind turbine generator anomaly detection. (Wind Turbine.ipynb)
 
 Bear in mind that this code is not meant as a fully working software package, but serves merely as an illustration accompanying the manuscript mentioned earlier.
 
