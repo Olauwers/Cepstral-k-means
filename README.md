@@ -12,3 +12,6 @@ Bear in mind that this code is not meant as a fully working software package, bu
 
 ## Reference
 When using this code or discussing results of the cepstral k-means algorithm, please refer to [this paper](placeholder).
+
+To refer to the data presented here: it comes from the Hack The Wind competition by EDF: https://opendata.edp.com/pages/hackthewind .
+It was published under a CC BY-SA 4.0 license ( https://creativecommons.org/licenses/by-sa/4.0/ ), allowing for sharing and adapting the data.
